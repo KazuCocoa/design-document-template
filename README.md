@@ -2,8 +2,8 @@ Design Document Template for Me
 
 This document help people understand target project.
 
-- Why do you do in this project
-- How do you do in this project
+- Why do you do in this project ?
+- How do you do in this project ?
 - Who will do/is doing this project ?
 - Is there other topics ?
 
