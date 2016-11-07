@@ -1,6 +1,6 @@
 Design Document Template for Me
 
-This document help people understand target project.
+This document help to understand what target project would like to do.
 
 - Why do you do in this project ?
 - How do you do in this project ?
@@ -24,6 +24,8 @@ This document help people understand target project.
 # Testing Plan*
 # Operations/Maintenance
 # References
+
+( * : must topic)
 
 ---
 
