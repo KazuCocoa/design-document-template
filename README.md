@@ -11,31 +11,31 @@ This document help to understand what target project would like to do.
 
 ---
 
-# Title*
-## author’s name*
-## project members
-# Objective*
-# Requirements
-# Background*
-# Possible Solution*
-# Detailed Design*
+## Title*
+### author’s name*
+### project members
+## Objective*
+## Requirements
+## Background*
+## Possible Solution*
+## Detailed Design*
 high level architecture...
 
-## more detailed topics for design…
-## Examples
-# Security/Concern
-# Project Information
-# Caveats/Known issues
-# Testing Plan*
-# Operations/Maintenance
-# References
+### more detailed topics for design…
+### Examples
+## Security/Concern
+## Project Information
+## Caveats/Known issues
+## Testing Plan*
+## Operations/Maintenance
+## References
 
 ( * : must topic)
 
 ---
 
-# Reference
+# References
 - EarlGrey
-	- [EarlGrey and Swift Design Doc](https://docs.google.com/document/d/1AeleXccp35EUX4ILa6CT3CwlxLSZq1YLrco9JF27p9k/edit)
+    - [EarlGrey and Swift Design Doc](https://docs.google.com/document/d/1AeleXccp35EUX4ILa6CT3CwlxLSZq1YLrco9JF27p9k/edit)
 - WebKit
-  - [WebKit WebSocket design doc](https://docs.google.com/document/d/1s1ryja1V8dDotMK2WBGT2wnwchZ_x7Tag2L3OZfn5Po/preview)
+    - [WebKit WebSocket design doc](https://docs.google.com/document/d/1s1ryja1V8dDotMK2WBGT2wnwchZ_x7Tag2L3OZfn5Po/preview)
