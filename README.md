@@ -8,6 +8,7 @@ This document help to understand what target project would like to do.
 - Is there other topics ?
 
 # Design Document
+
 ---
 
 # Title*
@@ -18,9 +19,13 @@ This document help to understand what target project would like to do.
 # Background*
 # Possible Solution*
 # Detailed Design*
+high level architecture...
+
 ## more detailed topics for design…
+## Examples
+# Security/Concern
 # Project Information
-# Caveats
+# Caveats/Known issues
 # Testing Plan*
 # Operations/Maintenance
 # References
